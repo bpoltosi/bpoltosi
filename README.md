@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently studyin on PUC-RS.<br>💬 Ask me about.
+I’m currently studyin on PUC-RS.<br>Ask me about: Backend logic, State Machines (like my Vending Machine project), and Database Integrity.
 
 
 ## 🌐 Socials:

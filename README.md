@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently studyin on **PUCRS** universitys, **Computer System Analysis**.<br>Ask me about: **Backend** logic, State Machines (like my Vending Machine project), and **Database** Integrity.
+I’m currently studyin on **PUCRS** and **UFSM** universitys, **Computer System Analysis** and **Industrial Electronics**.<br>Ask me about: **Backend** logic, State Machines, and **Database** Integrity.
 
 
 ## 🌐 Socials:
@@ -7,6 +7,7 @@ I’m currently studyin on **PUCRS** universitys, **Computer System Analysis**.<
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+and a little bit in C
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bpoltosi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bpoltosi&theme=dark&hide_border=false)<br/>

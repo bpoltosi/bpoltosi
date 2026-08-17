@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently studyin on **PUCRS** and **UFSM** universitys, **Computer System Analysis** and **Industrial Electronics**.<br>Ask me about: **Backend** logic, State Machines, and **Database** Integrity.
+I’m currently studyin on **PUCRS** and **UFSM** universitys, **Computer System Analysis** and **Industrial Electronics**.
 
 
 ## 🌐 Socials:

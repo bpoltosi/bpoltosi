@@ -7,7 +7,7 @@ I’m currently studyin on **PUCRS** and **UFSM** universitys, **Computer System
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-and a little bit in C
+and a little bit in C & JavaScript
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bpoltosi&icon=0&color=4)](https://visitcount.itsvg.in)

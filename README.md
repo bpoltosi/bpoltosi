@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m currently studyin on **PUCRS** and **UFSM** universitys, **Computer System Analysis** and **Industrial Electronics**.
 
 

@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,lua,c,js,git,mongodb,oracle" />
+  <img src="https://skillicons.dev/icons?i=java,python,lua,c,js,git,oracle" />
 </p>
 
 ### 📌 Conhecimentos

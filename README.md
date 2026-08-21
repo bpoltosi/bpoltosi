@@ -22,7 +22,6 @@
 🧠 Sempre buscando aprender novas ferramentas e conceitos
 ⚙️ Interesse em desenvolvimento, automação e criação de soluções
 📚 Evoluindo constantemente através de projetos práticos
-🎯 Meu objetivo é transformar ideias em projetos funcionais e eficientes
 
 ## 🛠️ Tecnologias
 
@@ -76,5 +75,5 @@
 </p>
 
 <p align="center">
-  <i>“Sempre um passo à frente de ontem.” 🚀</i>
+  <i>“A excelência nada mais é do que um agregado de comportamentos que, em singular, nada têm de extraordinário” </i>
 </p>

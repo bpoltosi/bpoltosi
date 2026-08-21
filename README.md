@@ -14,8 +14,7 @@
 
 ## 🚀 Sobre mim
 
-💻 Estudante de Análise e Desenvolvimento de Sistema na PUCRS (2°sem)
- ⚙️ Estudante de Eletrônica Industrial na UFSM (1°sem)
+💻 Estudante de Análise e Desenvolvimento de Sistema na PUCRS (2°sem) e de Eletrônica Industrial na UFSM (1°sem) ⚙️
 
 ## 🛠️ Tecnologias
 

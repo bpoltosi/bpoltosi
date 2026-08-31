@@ -35,14 +35,6 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  Sobre mim:</h3>
-
-###
-
-<p data-importer="text" align="left">- 🔭 Atualmente ainda não trabalho, mas estou aberto a oportunidades<br>- 📚 Estou cursando Análise e Desenvolvimento de Sistema (PUC-RS) & Eletrônica Industrial (UFSM)<br>- ⚡ No meu tempo livre desenvolvo projetos de estudo, práticos e teóricos</p>
-
-###
-
 <h3 data-importer="text" align="left">🛠 Linguagens e Ferramentas:</h3>
 
 ###

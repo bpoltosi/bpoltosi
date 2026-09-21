@@ -63,8 +63,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=bpoltosi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/bpoltosi/bpoltosi/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=bpoltosi&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="gráfico de sequência de contribuições"  />
+  <img src="https://raw.githubusercontent.com/bpoltosi/bpoltosi/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="gráfico de linguagens mais utilizadas"  />
 </div>
 
 ###

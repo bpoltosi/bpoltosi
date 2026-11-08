@@ -33,6 +33,25 @@
 | [ia-factory](https://github.com/bpoltosi/ia-factory) | Arquitetura de uma fábrica de desenvolvimento com agentes |
 | [ProjetosBancoDeDados](https://github.com/bpoltosi/ProjetosBancoDeDados) | Modelagem e scripts SQL |
 
+
+## Projetos em desenvolvimento
+
+> 🚧 **Status: em desenvolvimento (WIP) · projetos em aberto.** Estes projetos estão sendo avaliados, reorganizados e ampliados a partir de trabalhos acadêmicos e repositórios de estudo. A implementação, as funcionalidades e a documentação ainda podem mudar.
+
+| Projeto | Repositório de origem | Status |
+|---|---|---|
+| Bingo em C | [ProjetosC / TrabalhoBingo](https://github.com/bpoltosi/ProjetosC/tree/main/TrabalhoBingo) | 🚧 Em desenvolvimento · Aberto |
+| Sistema de Controle de Estacionamento | [ProjetosJavaScript / SistemaControleEstacionamento](https://github.com/bpoltosi/ProjetosJavaScript/tree/main/SistemaControleEstacionamento) | 🚧 Em desenvolvimento · Aberto |
+| Aplicativo de Gestão de Trens | [ProjetosJavaScript / ArquivosAplicativoTrem](https://github.com/bpoltosi/ProjetosJavaScript/tree/main/ArquivosAplicativoTrem) | 🚧 Em desenvolvimento · Aberto |
+| Catálogo de Jogos de Tabuleiro | [ProjetosSwift / Desafio05](https://github.com/bpoltosi/ProjetosSwift/tree/main/hackatruck/presencial/semana02/Desafio05) | 🚧 Em desenvolvimento · Aberto |
+| Cardápio Digital | [ProjetosSwift / Desafio08](https://github.com/bpoltosi/ProjetosSwift/tree/main/hackatruck/presencial/semana02/Desafio08) | 🚧 Em desenvolvimento · Aberto |
+| Classificador de Imagens com Core ML | [ProjetosSwift / Desafio09](https://github.com/bpoltosi/ProjetosSwift/tree/main/hackatruck/presencial/semana02/Desafio09) | 🚧 Em desenvolvimento · Aberto |
+| StudyCast — leitura e análise de textos | [ProjetosSwift / Desafio10](https://github.com/bpoltosi/ProjetosSwift/tree/main/hackatruck/presencial/semana02/Desafio10) | 🚧 Em desenvolvimento · Aberto |
+| Gestão de Obras com Oracle SQL | [ProjetosBancoDeDados / Sistema-Gestao-Construcao-Civil-Oracle](https://github.com/bpoltosi/ProjetosBancoDeDados/tree/main/Sistema-Gestao-Construcao-Civil-Oracle) | 🚧 Em desenvolvimento · Aberto |
+| OpenBrew — monitoramento de preparo de café | [OpenBrew](https://github.com/bpoltosi/OpenBrew) | 🚧 Em desenvolvimento · Aberto |
+
+Os links apontam para os diretórios originais dentro dos repositórios de estudo. Os projetos ainda não possuem, necessariamente, repositórios independentes; a separação e a evolução serão feitas gradualmente.
+
 ## Linguagens e ferramentas
 
 <p align="left">

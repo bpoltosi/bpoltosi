@@ -32,6 +32,9 @@
 | [SistemaReservas](https://github.com/bpoltosi/SistemaReservas) | Estudo de integração de sistemas de reservas esportivas |
 | [ia-factory](https://github.com/bpoltosi/ia-factory) | Arquitetura de uma fábrica de desenvolvimento com agentes |
 | [ProjetosBancoDeDados](https://github.com/bpoltosi/ProjetosBancoDeDados) | Modelagem e scripts SQL |
+| [HubAcademico](https://github.com/bpoltosi/HubAcademico) | Aplicativo iOS em SwiftUI com API Node-RED e Cloudant |
+| [BinGoat](https://github.com/bpoltosi/BinGoat) | Jogo de bingo com motor C, servidor HTTP e interface web |
+| [SuperTrunfIA](https://github.com/bpoltosi/SuperTrunfIA) | Jogo temático de modelos de IA, em desenvolvimento |
 
 
 ## Projetos em desenvolvimento
